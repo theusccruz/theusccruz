@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+I am Matheus Cruz
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, PostgreSQL among other things ... :fire:
@@ -8,3 +9,5 @@
 - 📫 How to reach me: Instagram @theusccruz, Email matheus8476@outlook.com
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+
+
