@@ -1,7 +1,7 @@
 ### Eae 👋 
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 Atualmente estou aprendendo JavaScript, ReactJS, NodeJS, PostgreSQL entre outras coisas... :fire:
+- 🌱 Atualmente estou aprendendo JavaScript, React, NodeJs, PostgreSQL entre outras coisas... :fire:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
@@ -13,7 +13,7 @@
 I am Matheus Cruz
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning JavaScript, ReactJS, NodeJS, PostgreSQL among other things... :fire:
+- 🌱 I’m currently learning JavaScript, React, NodeJs, PostgreSQL among other things... :fire:
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
