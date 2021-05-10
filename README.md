@@ -30,9 +30,5 @@ I am Matheus Cruz
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p>
 
-<p align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusccruz)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-
 
