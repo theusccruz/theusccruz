@@ -31,7 +31,7 @@ I am Matheus Cruz
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=theusccruz&show_icons=true" alt="theusccruz"/> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
