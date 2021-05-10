@@ -32,5 +32,7 @@ I am Matheus Cruz
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theusccruz&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusccruz&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
