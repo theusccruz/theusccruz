@@ -1,4 +1,4 @@
-### Eae 👋 
+### Eae 🤙 
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 Atualmente estou aprendendo JavaScript, React, NodeJs, PostgreSQL entre outras coisas... :fire:
@@ -14,7 +14,7 @@
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-### Hi there 👋 
+### Hi there 🤙  
 I am Matheus Cruz
 
 <!-- - 🔭 I’m currently working on ... -->
